@@ -1,5 +1,6 @@
 {
   "name": "ghactionsdemo",
+  "homepage": "https://snow-jallen.github.io/ghpagesdemo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
